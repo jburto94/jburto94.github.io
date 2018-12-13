@@ -1,0 +1,32 @@
+#resume {
+  background: #1b242f;
+  color: #eee;
+  height: 400px;
+}
+
+#resume .title-line {
+  border-color: #eee;
+}
+
+#resume h3 {
+  margin-top: 25px;
+  font-size: 1.5em;
+}
+
+#resume a {
+  margin-top: 25px;
+  padding: 20px;
+  border: 3px solid #eee;
+  border-radius: 3px;
+  background: transparent;
+  font-size: 20px;
+  color: #eee;
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+}
+
+#resume a:hover {
+  background: #cd661b;
+  border-color: #cd661b;
+}
